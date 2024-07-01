@@ -1,5 +1,3 @@
-# Hsiang-Yu Yang
-
 [![Email](https://img.shields.io/badge/Email-patrick.yang880612@gmail.com-blue)](mailto:patrick.yang880612@gmail.com)
 
 ## 💫 About Me
