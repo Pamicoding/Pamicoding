@@ -1,6 +1,5 @@
 # Hsiang-Yu Yang
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Email-patrick.yang880612@gmail.com-blue)](mailto:patrick.yang880612@gmail.com)
 
 ## 💫 About Me
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 ## 🔨 Skills
 
 - **Languages**: Python
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
