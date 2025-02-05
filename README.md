@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I am a M.S. in Geoscience from National Taiwan University, graduating in August 2023. Currently, I work as a research assistant at the Earth Structure Laboratory, Institute of Earth Sciences, Academia Sinica. I am interested in discovering innovative applications of Python.
+I am a M.S. in Geoscience from National Taiwan University, graduating in August 2023. Currently, I work as a research assistant at the Earth Structure Laboratory, Institute of Earth Sciences, Academia Sinica. I am interested in discovering and developing innovative applications of Python.
 
 ## 🌱 Projects
 
