@@ -6,7 +6,7 @@ I am a M.S. in Geoscience from National Taiwan University, graduating in August 
 
 ## 🌱 Projects
 
-### All-in-One Earthquake Catalog Generation: AutoQuake
+### All-in-One Earthquake Catalog Generation: [AutoQuake](https://github.com/IES-ESLab/AutoQuake)
 I'm currently focused on integrating phase picking, phase association, earthquake relocation, magnitude estimation, polarity determination, and focal mechanism solution in an all-in-one earthquake catalog generation workflow.
 
 ## 📫 How to reach me
