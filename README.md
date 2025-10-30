@@ -6,8 +6,8 @@ I am a M.S. in Geoscience from National Taiwan University, graduating in August 
 
 ## 🌱 Projects
 
-### All-in-One Earthquake Catalog Generation
-I'm currently focused on integrating Python programs for an all-in-one earthquake catalog generation. My work involves optimizing ease of use by integrating seismic ML models and enhancing the visualization of outputs.
+### All-in-One Earthquake Catalog Generation: AutoQuake
+I'm currently focused on integrating phase picking, phase association, earthquake relocation, magnitude estimation, polarity determination, and focal mechanism solution in an all-in-one earthquake catalog generation workflow.
 
 ## 📫 How to reach me
 
